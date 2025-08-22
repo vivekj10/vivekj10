@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web Developer**, and **UI/UX Enthusiast**. I love building smooth mobile apps, dynamic web experiences, and visually compelling interfaces that solve real-world problems.
+Hi there! I'm **Vivek**, a passionate **Android Developer**, **Full Stack Web Developer**, and **UI/UX Enthusiast**. I love building smooth mobile apps, dynamic web experiences, and visually compelling interfaces that solve real-world problems.
 
 ---
 
