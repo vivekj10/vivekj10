@@ -60,7 +60,7 @@ Hi there! I'm **Vivek**, a passionate **Android Developer**, **Full Stack Web De
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rishishinde08&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=vivekj10&color=blueviolet)
 
 ---
 
