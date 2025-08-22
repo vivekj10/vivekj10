@@ -54,8 +54,8 @@ Hi there! I'm **Vivek**, a passionate **Android Developer**, **Full Stack Web De
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishishinde08&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishishinde08&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekj10&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekj10&theme=radical" />
 </p>
 
 ---
